@@ -1,1 +1,12 @@
-# Titanic_Kaggle
+# Titanic_kaggle
+Desafio do Titanic do Kaggle
+
+### Wellington
+### Cláudio Jr
+### Claudio Sebastião
+### Edinon
+### Thais
+
+### Rresultados
+
+![Resultado](vai.PNG)
